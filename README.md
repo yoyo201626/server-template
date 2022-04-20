@@ -57,7 +57,7 @@ npx tsc
 
 ## 项目结构
 
-![默认流程](doc\imgs\server-template.jpg)
+![项目结构](https://raw.githubusercontent.com/notfitme/server-template/main/doc/imgs/server-template.jpg)
 
 ## 项目要点
 
